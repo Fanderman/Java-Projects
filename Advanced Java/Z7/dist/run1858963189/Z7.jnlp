@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<jnlp spec="1.0" xmlns:jfx="http://javafx.com" href="Z7.jnlp">
+  <information>
+    <title>Z7</title>
+    <vendor>jacek</vendor>
+    <description>null</description>
+    <offline-allowed/>
+  </information>
+  <resources>
+    <j2se version="1.6+" href="http://java.sun.com/products/autodl/j2se"/>
+    <jar href="Z7.jar" size="9138" download="eager" />
+    <jar href="lib\commons-lang3-3.9.jar" size="503880" download="eager" />
+  </resources>
+  <jfx:javafx-desc  width="800" height="600" main-class="z7.Z7"  name="Z7" />
+  <update check="always"/>
+</jnlp>
