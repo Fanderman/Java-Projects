@@ -1,0 +1,7 @@
+Ax + By + c = 0
+Ax + c = -By
+-A/Bx - c/B = y
+
+Ax + c = 0
+Ax = -c
+x = -c/A

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<jnlp spec="1.0" xmlns:jfx="http://javafx.com" href="Z2.jnlp">
+  <information>
+    <title>Z2</title>
+    <vendor>jacek</vendor>
+    <description>null</description>
+    <offline-allowed/>
+  </information>
+  <resources>
+    <j2se version="1.6+" href="http://java.sun.com/products/autodl/j2se"/>
+    <jar href="Z2.jar" size="7910" download="eager" />
+  </resources>
+  <jfx:javafx-desc  width="800" height="600" main-class="z2.Z2"  name="Z2" />
+  <update check="always"/>
+</jnlp>
