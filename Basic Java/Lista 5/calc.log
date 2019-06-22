@@ -1,0 +1,15 @@
+[INFO] Enter RPN expressions: 
+[INFO] Enter ONP expressions: 
+[INFO] Enter ONP expressions: 
+[INFO] calc 5 
+[INFO] Result: 5.0 
+[INFO] Enter ONP expressions: 
+[INFO] calc  
+[SEVERE] tools.ExceptionONP: Invalid formula, ended up with incorrect amount of results on stack 
+[INFO] Enter ONP expressions: 
+[INFO] calc * 
+[SEVERE] tools.ONP_EmptyStack: Tried to get argument from empty stack, 1. symbol 
+[SEVERE] Cause: java.util.NoSuchElementException 
+[INFO] Enter ONP expressions: 
+[INFO] exit 
+[INFO] Exiting... 
